@@ -31,11 +31,6 @@ library(readxl)
 library(RColorBrewer)
 library(cowplot)
 
-#================================================
-# Set working directory ----
-
-setwd("C:/Users/3054311/Documents/My Documents/Paper Mesocosm experiment with D. longi")
-
 #============================#
 ## Set working directory ----
 
