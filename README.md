@@ -1,4 +1,4 @@
-# Competition_in_Daphnia
+# Competition in Daphnia
 Data and script repository associated with the study entitled "Essential dietary fatty acids affect intraspecific competition in herbivorous zooplankton" by Ilić et al.
 
 # Title of the study
@@ -8,7 +8,7 @@ Essential dietary fatty acids affect intraspecific competition in herbivorous zo
 Maja Ilić (corresponding author), Sina Brehm, Maria Stockenreiter, Eric von Elert and Patrick Fink
 
 # Contact and other details of the corresponding author and author of this repository 
-maja.ilic.bio@gmail.com
+maja.ilic.bio@gmail.com<br/>
 maja.ilic@uibk.ac.at
 ORCiD: 0000-0002-8387-9932
 Affiliation at the time of the creation of this repository: University of Innsbruck, Research Department for Limnology, Mondsee, Austria
